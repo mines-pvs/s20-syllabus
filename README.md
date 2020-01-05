@@ -3,7 +3,7 @@ CSCI-598 Program Verification & Synthesis, Spring 2020
 
 ## Course Information
 
-- **Lecture** Time/Location: Lecture 11:00am-12:15am Tue Thu, Alderson Hall 152
+- Lecture Time/Location: Tue Thu 11:00am-12:15am, Alderson Hall 152
 
 ## Instructor
 
