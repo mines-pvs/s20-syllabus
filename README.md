@@ -98,6 +98,11 @@ NOTE: if you have a question you do not wish to publicize (e.g., about
 grades, etc.), please create a "private post" on Piazza. **Email should only
 be used in rare instances where use of Piazza would not be feasible.**
 
+There is a Github organization for the class:
+[https://github.com/mines-pvs](https://github.com/mines-pvs)
+
+All of your individual/team repositories will show up there.
+
 ## Textbook and Other Reading Materials
 
 NOTE: the following resources are *recommended*, but not required. I will
@@ -114,11 +119,6 @@ The above links will take you to free versions of the materials.
 Class notes will be posted 1-2 days after the lecture.
 **Posted notes are not guaranteed to provide all information discussed in lecture**
 (class attendance is highly recommended).
-
-There is a Github organization for the class:
-[https://github.com/mines-pvs](https://github.com/mines-pvs)
-
-All of your individual/team repositories will show up there.
 
 ## Grading
 
