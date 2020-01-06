@@ -165,7 +165,13 @@ Letter grades will be calculated based on the following intervals:
 
 ## Late Policy
 
-[1.13 × (1 - 1 / (1 + e^(-2 × 0.51 × (x-2))))](https://www.wolframalpha.com/input/?i=plot+%5B1.13*%281+-+1+%2F+%281+%2B+e%5E%28-2*0.51*%28x-2%29%29%29%29+%5D+from+0+to+7)
+Any work submitted after midnight (Mountain Time) on the stated deadline
+will be subject to a *late penalty*. If the work is submitted *x* hours
+late, the following percentage will be deducted from your score:
+
+[1.13 / (1 + e^(-2 × 0.51 × ((x / 24) - 2))) - 0.13](https://www.wolframalpha.com/input/?i=plot+%5B1.13+%2F+%281+%2B+e%5E%28-2*0.51*%28%28x%2F24%29-2%29%29%29+-+0.13%5D+from+0+to+%287*24%29).
+
+Notice that 1 day late is -17%, 2 days late is -44%, 3 days late is -70%, etc.
 
 ## Attendance
 
