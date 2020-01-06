@@ -199,6 +199,23 @@ Sophisticated plagiarism-detection software will be used on every submitted assi
 all confirmed instances of cheating will be immediately reported to the Computer Science department.
 Please ensure that you do not engage in or facilitate academic dishonesty in this class!
 
+## Course Feedback
+
+Just as you expect the instructor to grade your coursework in a fair and
+timely fashion, the instructor expects you to take the Mines course
+feedback seriously. Feedback is typically collected during the *two weeks
+before finals week*.
+
+As an encouragement to participate in the course feedback, the instructor will
+monitor the overall response rate via Canvas -- if the overall response rate
+goes above 50%, *all* students in the class will receive bonus points
+worth 50% of a homework assignment.
+
+Your feedback is important! I will read all of your comments, and use them to help improve my course/teaching in the future. Rather than simply leaving a numeric rating, please describe your rating in words -- for example, a high score without any indication of what you enjoyed/gained from the class is great but not particularly informative, and a low score without any indication of what went wrong in the class will not help me improve.
+
+Please put yourself in the instructor's shoes, and be **constructive** in
+your comments.
+
 ## Accommodation
 
 The Colorado School of Mines is committed to ensuring the full participation of all students in its programs, including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me. Students with disabilities may also wish to contact Disability Support Services (DSS) to discuss options to removing barriers in this course, including how to register and request official accommodations. Please visit their website at [https://disabilities.mines.edu](https://disabilities.mines.edu) for contact and additional information.  If you have already been approved for accommodations through DSS, please meet with me at your earliest convenience so we can discuss your needs in this course.
