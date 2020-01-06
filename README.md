@@ -109,14 +109,6 @@ the course material.
 
 The above links will take you to free versions of the materials.
 
-- Logic Preliminaries: First-order logic, inductive definitions, proofs,
-SAT solvers.
-- Model checking: automata, temporal logic (LTL, CTL), binary decision
-diagrams.
-- Program Verification: Hoare logic, verification conditions, SMT solvers.
-- Program Synthesis: counterexample-guided inductive synthesis (CEGIS),
-syntax-guided synthesis (SyGuS), programming by example.
-
 ## Class Notes
 
 Class notes will be posted 1-2 days after the lecture.
@@ -226,6 +218,15 @@ This schedule is tentative, and is subject to change.
 
 | week | date   | topic                                                                | lecture                                             | notes          | supplemental reading                                                                                                                                                                                                                                                              | homework                                                              | lab                                                                    |
 
+
+
+- Logic Preliminaries: First-order logic, inductive definitions, proofs,
+SAT solvers.
+- Model checking: automata, temporal logic (LTL, CTL), binary decision
+diagrams.
+- Program Verification: Hoare logic, verification conditions, SMT solvers.
+- Program Synthesis: counterexample-guided inductive synthesis (CEGIS),
+syntax-guided synthesis (SyGuS), programming by example.
 
 ## Homework
 
