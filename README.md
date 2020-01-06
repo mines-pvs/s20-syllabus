@@ -254,6 +254,7 @@ This schedule is tentative, and is subject to change.
 | 18   | May 5  | *no class (final exam week)*      |               |                      |          |     |
 |      | May 7  | *no class (final exam week)*      |               |                      |          |     |
 
+
 - Logic Preliminaries: First-order logic, inductive definitions, proofs,
 SAT solvers.
 - Model checking: automata, temporal logic (LTL, CTL), binary decision
