@@ -171,7 +171,7 @@ late, the following percentage will be deducted from your score:
 
 [1.13 / (1 + e^(-2 × 0.51 × ((x / 24) - 2))) - 0.13](https://www.wolframalpha.com/input/?i=plot+%5B1.13+%2F+%281+%2B+e%5E%28-2*0.51*%28%28x%2F24%29-2%29%29%29+-+0.13%5D+from+0+to+%287*24%29).
 
-Notice that 1 day late is -17%, 2 days late is -44%, 3 days late is -70%, etc.
+Notice that the penalty increases as times passes: 24 hours late is -17%, 48 hours late is -44%, 72 hours late is -70%, etc.
 
 ## Attendance
 
