@@ -132,10 +132,9 @@ work hard, and not rely on the curve!*
 
 | item             | percentage    |
 | -----------------|---------------|
-| homeworks        | 40%           |
-| midterm exam     | 15%           |
-| presentations    | 15%           |
-| final project    | 20%           |
+| homeworks        | 45%           |
+| presentations    | 20%           |
+| final project    | 25%           |
 | participation    | 10%           |
 
 Letter grades will be calculated based on the following intervals:
@@ -216,9 +215,44 @@ The Colorado School of Mines is committed to ensuring the full participation of 
 
 This schedule is tentative, and is subject to change.
 
-| week | date   | topic                                                                | lecture                                             | notes          | supplemental reading                                                                                                                                                                                                                                                              | homework                                                              | lab                                                                    |
-
-
+| week | date   | topic                             | lecture notes | supplemental reading | homework | lab |
+|------|--------|-----------------------------------|---------------|----------------------|----------|-----|
+| 1    | Jan 7  | SAT/SMT                           |               |                      |          |     |
+|      | Jan 9  | SAT/SMT                           |               |                      |          |     |
+| 2    | Jan 14 | SAT/SMT                           |               |                      |          |     |
+|      | Jan 16 | SAT/SMT                           |               |                      |          |     |
+| 3    | Jan 21 | SAT/SMT                           |               |                      |          |     |
+|      | Jan 23 | SAT/SMT                           |               |                      |          |     |
+| 4    | Jan 38 | SAT/SMT                           |               |                      |          |     |
+|      | Jan 30 | SAT/SMT                           |               |                      |          |     |
+| 5    | Feb 4  | model checking                    |               |                      |          |     |
+|      | Feb 6  | model checking                    |               |                      |          |     |
+| 6    | Feb 11 | model checking                    |               |                      |          |     |
+|      | Feb 13 | model checking                    |               |                      |          |     |
+| 7    | Feb 18 | *no class (holiday)*              |               |                      |          |     |
+|      | Feb 20 | model checking                    |               |                      |          |     |
+| 8    | Feb 25 | model checking                    |               |                      |          |     |
+|      | Feb 27 | *no class (instructor traveling)* |               |                      |          |     |
+| 9    | Mar 3  | automated theorem proving         |               |                      |          |     |
+|      | Mar 5  | automated theorem proving         |               |                      |          |     |
+| 10   | Mar 10 | automated theorem proving         |               |                      |          |     |
+|      | Mar 12 | automated theorem proving         |               |                      |          |     |
+| 11   | Mar 17 | automated theorem proving         |               |                      |          |     |
+|      | Mar 19 | automated theorem proving         |               |                      |          |     |
+| 12   | Mar 24 | *no class (holiday)*              |               |                      |          |     |
+|      | Mar 26 | *no class (holiday)*              |               |                      |          |     |
+| 13   | Mar 31 | Synthesis 1                       |               |                      |          |     |
+|      | Apr 2  | Synthesis 2                       |               |                      |          |     |
+| 14   | Apr 7  | Synthesis 3                       |               |                      |          |     |
+|      | Apr 9  | Synthesis 4                       |               |                      |          |     |
+| 15   | Apr 14 | Synthesis 5                       |               |                      |          |     |
+|      | Apr 16 | Synthesis 6                       |               |                      |          |     |
+| 16   | Apr 21 | Synthesis 7                       |               |                      |          |     |
+|      | Apr 23 | project presentations             |               |                      |          |     |
+| 17   | Apr 28 | project presentations             |               |                      |          |     |
+|      | Apr 30 | *no class (study for finals)*     |               |                      |          |     |
+| 18   | May 5  | *no class (final exam week)*      |               |                      |          |     |
+|      | May 7  | *no class (final exam week)*      |               |                      |          |     |
 
 - Logic Preliminaries: First-order logic, inductive definitions, proofs,
 SAT solvers.
