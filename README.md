@@ -37,7 +37,8 @@ It is also helpful if you have some basic Linux command-line experience.
 
 ## Textbook and Other Reading Materials
 
-NOTE: the following resources are *recommended*, but not required. I will
+NOTE: the following resources are *recommended*, but not required. The
+instructor will
 assign readings from these sources to supplement our discussions in class,
 but our in-class discussions will constitute the "official" version of
 the course material.
@@ -153,11 +154,11 @@ Class notes will be posted 1-2 days after the lecture.
 ## Grading
 
 The following percentages show how final grades will be calculated.
-I will *not* perform any rounding on the scores (e.g., a score of
+The instructor will *not* perform any rounding on the scores (e.g., a score of
 92.999 will not be rounded up to 93).
-I may or may not curve the overall
+The instructor may or may not curve the overall
 grades, depending on how well the class performs overall, however,
-*I expect each student to
+*The instructor expects each student to
 work hard, and not rely on the curve!* 
 
 | item             | percentage    |
