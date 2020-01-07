@@ -51,7 +51,7 @@ The above links will take you to free versions of the materials.
 ## Schedule
 
 This schedule is tentative, and is subject to change.
-Deadlines are at *midnight (Mountain Time) on the corresponding date.
+Deadlines are at *midnight (Mountain Time)* on the corresponding date.
 
 | week | date   | topic                             | lecture notes | supplemental reading                                                                                                                                                 | homework     | project                 |
 |------|--------|-----------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------|
