@@ -250,20 +250,25 @@ This schedule is tentative, and is subject to change.
 | 16   | Apr 21 | paper presentation                |               | [Syntax-Guided Synthesis](https://www.cis.upenn.edu/~fisman/documents/SyGuS_JournalVersion.pdf)                                                                      |              | presentation slides due |
 |      | Apr 23 | **project presentations**         |               |                                                                                                                                                                      |              |                         |
 | 17   | Apr 28 | **project presentations**         |               |                                                                                                                                                                      |              |                         |
-|      | Apr 30 | *no class (âdead dayâ)*           |               |                                                                                                                                                                      |              |                         |
+|      | Apr 30 | *no class ("dead day")*           |               |                                                                                                                                                                      |              |                         |
 | 18   | May 5  | *no class (final exam week)*      |               |                                                                                                                                                                      |              |                         |
 |      | May 7  | *no class (final exam week)*      |               |                                                                                                                                                                      |              | final report due        |
 
-- Logic Preliminaries: First-order logic, inductive definitions, proofs,
-SAT solvers.
-- Model checking: automata, temporal logic (LTL, CTL), binary decision
-diagrams.
-- Program Verification: Hoare logic, verification conditions, SMT solvers.
-- Program Synthesis: counterexample-guided inductive synthesis (CEGIS),
-syntax-guided synthesis (SyGuS), programming by example.
-
 ## Homework
 
-There will be approximately 7 homeworks, which will be completed individually.
+There will be approximately 8 homeworks, which will be completed individually.
 These are designed to help encourage you to keep up-to-date on the course material.
 You will have approximately **2 weeks** to work on each homework.
+
+## Student Paper Presentations
+
+Students will work in groups of 2-3 to thoroughly read one of the program synthesis research papers at the end of the course schedule.
+Each group will prepare a detailed (50 min) presentation on the paper, and will lead the class discussion on the corresponding day.
+Teams/papers will be chosen shortly after project proposals are due.
+
+## Final Project
+
+Each student will propose a programming project which utilizes a verification/synthesis technique(s) in a domain of interest.
+Project proposals are due approximately halfway through the course (week 8).
+Each student will give a brief (10 min) presentation during the last week of class, to describe the project results.
+A brief (5-8 page) final report will be due at the end of finals week.
