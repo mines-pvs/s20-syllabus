@@ -26,6 +26,7 @@ This course is a hands-on introduction to formal methods. Students will learn ho
 There are no official prerequisites, but it is recommended that you
 have some familiarity with the material covered in
 [CSCI-400 Programming Languages](https://mines-csci400.github.io/f19-syllabus/).
+It is also helpful if you have some basic Linux command-line experience.
 
 ## Course Goals
 
@@ -33,6 +34,68 @@ have some familiarity with the material covered in
 2. Learn how to build *verification tools* to check the correctness of programs.
 3. Gain exposure to recent research in the area of *program synthesis*.
 4. Apply some verification/synthesis techniques in a domain of interest to you.
+
+## Schedule
+
+This schedule is tentative, and is subject to change.
+
+| week | date   | topic                             | lecture notes | supplemental reading                                                                                                                                                 | homework     | project                 |
+|------|--------|-----------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------|
+| 1    | Jan 7  | introduction to formal methods    |               |                                                                                                                                                                      | hw1 assigned |                         |
+|      | Jan 9  | natural deduction                 |               | LICS 1.1-1.2                                                                                                                                                         | hw1 due      |                         |
+| 2    | Jan 14 | propositional logic               |               | LICS 1.3                                                                                                                                                             | hw2 assigned |                         |
+|      | Jan 16 | semantics of propositional logic  |               | LICS 1.4                                                                                                                                                             |              |                         |
+| 3    | Jan 21 | normal forms                      |               | LICS 1.5                                                                                                                                                             |              |                         |
+|      | Jan 23 | SAT solving                       |               | LICS 1.6                                                                                                                                                             | hw2 due      |                         |
+| 4    | Jan 38 | predicate logic                   |               | LICS 2.1-2.2                                                                                                                                                         | hw3 assigned |                         |
+|      | Jan 30 | proof theory of predicate logic   |               | LICS 2.3                                                                                                                                                             |              |                         |
+| 5    | Feb 4  | semantics of predicate logic      |               | LICS 2.4                                                                                                                                                             |              |                         |
+|      | Feb 6  | SMT solving                       |               |                                                                                                                                                                      | hw3 due      |                         |
+| 6    | Feb 11 | linear temporal logic (LTL)       |               | LICS 3.2                                                                                                                                                             | hw4 assigned |                         |
+|      | Feb 13 | model checking                    |               | LICS 3.3                                                                                                                                                             |              |                         |
+| 7    | Feb 18 | *no class (holiday)*              |               |                                                                                                                                                                      |              |                         |
+|      | Feb 20 | computation tree logic (CTL)      |               | LICS 3.4                                                                                                                                                             | hw4 due      |                         |
+| 8    | Feb 25 | CTL model checking                |               | LICS 3.6.1                                                                                                                                                           | hw5 assigned |                         |
+|      | Feb 27 | *no class (instructor traveling)* |               |                                                                                                                                                                      |              | project proposal due    |
+| 9    | Mar 3  | LTL model checking                |               | LICS 3.6.3                                                                                                                                                           |              |                         |
+|      | Mar 5  | program syntax/semantics          |               | LICS 4.1-4.2.1                                                                                                                                                       | hw5 due      |                         |
+| 10   | Mar 10 | program verification              |               | LICS 4.2.2-4.2.4                                                                                                                                                     | hw6 assigned |                         |
+|      | Mar 12 | Hoare logic                       |               | LICS 4.3                                                                                                                                                             |              |                         |
+| 11   | Mar 17 | verification conditions           |               |                                                                                                                                                                      |              |                         |
+|      | Mar 19 | finding loop invariants           |               |                                                                                                                                                                      | hw6 due      |                         |
+| 12   | Mar 24 | *no class (holiday)*              |               |                                                                                                                                                                      | hw7 assigned |                         |
+|      | Mar 26 | *no class (holiday)*              |               |                                                                                                                                                                      |              |                         |
+| 13   | Mar 31 | paper presentation                |               | [Combinatorial Sketching for Finite Programs](https://people.csail.mit.edu/asolar/papers/asplos06-final.pdf)                                                         |              |                         |
+|      | Apr 2  | paper presentation                |               | [Sketching Concurrent Data Structures](https://people.csail.mit.edu/asolar/papers/Solar-LezamaJB08.pdf)                                                              | hw7 due      |                         |
+| 14   | Apr 7  | paper presentation                |               | [Oracle-Guided Component-Based Program Synthesis](http://susmitjha.github.io/papers/icse10.pdf)                                                                      | hw8 assigned |                         |
+|      | Apr 9  | paper presentation                |               | [Automating String Processing in Spreadsheets Using Input-Output Examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf) |              |                         |
+| 15   | Apr 14 | paper presentation                |               | [Abstraction-Guided Synthesis of Synchronization](http://www.cs.technion.ac.il/~yahave/papers/popl10.pdf)                                                            |              |                         |
+|      | Apr 16 | paper presentation                |               | [TRANSIT: Specifying Protocols with Concolic Snippets](http://acg.cis.upenn.edu/papers/pldi13_transit.pdf)                                                           | hw8 due      |                         |
+| 16   | Apr 21 | paper presentation                |               | [Syntax-Guided Synthesis](https://www.cis.upenn.edu/~fisman/documents/SyGuS_JournalVersion.pdf)                                                                      |              | presentation slides due |
+|      | Apr 23 | **project presentations**         |               |                                                                                                                                                                      |              |                         |
+| 17   | Apr 28 | **project presentations**         |               |                                                                                                                                                                      |              |                         |
+|      | Apr 30 | *no class ("dead day")*           |               |                                                                                                                                                                      |              |                         |
+| 18   | May 5  | *no class (final exam week)*      |               |                                                                                                                                                                      |              |                         |
+|      | May 7  | *no class (final exam week)*      |               |                                                                                                                                                                      |              | final report due        |
+
+## Homework
+
+There will be approximately 8 homeworks, which will be completed individually.
+These are designed to help encourage you to keep up-to-date on the course material.
+You will have approximately **2 weeks** to work on each homework.
+
+## Student Paper Presentations
+
+Students will work in groups of 2-3 to thoroughly read one of the program synthesis research papers at the end of the course schedule.
+Each group will prepare a detailed (50 min) presentation on the paper, and will lead the class discussion on the corresponding day.
+Teams/papers will be chosen shortly after project proposals are due.
+
+## Final Project
+
+Each student will propose a programming project which utilizes a verification/synthesis technique(s) in a domain of interest.
+Project proposals are due approximately halfway through the course (week 8).
+Each student will give a brief (10 min) presentation during the last week of class, to describe the project results.
+A brief (5-8 page) final report will be due at the end of finals week.
 
 ## IMPORTANT CAVEATS
 
@@ -211,67 +274,6 @@ your comments.
 
 The Colorado School of Mines is committed to ensuring the full participation of all students in its programs, including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me. Students with disabilities may also wish to contact Disability Support Services (DSS) to discuss options to removing barriers in this course, including how to register and request official accommodations. Please visit their website at [https://disabilities.mines.edu](https://disabilities.mines.edu) for contact and additional information.  If you have already been approved for accommodations through DSS, please meet with me at your earliest convenience so we can discuss your needs in this course.
 
-## Schedule
-
-This schedule is tentative, and is subject to change.
-
-| week | date   | topic                             | lecture notes | supplemental reading                                                                                                                                                 | homework     | project                 |
-|------|--------|-----------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------|
-| 1    | Jan 7  | introduction to formal methods    |               |                                                                                                                                                                      | hw1 assigned |                         |
-|      | Jan 9  | natural deduction                 |               | LICS 1.1-1.2                                                                                                                                                         | hw1 due      |                         |
-| 2    | Jan 14 | propositional logic               |               | LICS 1.3                                                                                                                                                             | hw2 assigned |                         |
-|      | Jan 16 | semantics of propositional logic  |               | LICS 1.4                                                                                                                                                             |              |                         |
-| 3    | Jan 21 | normal forms                      |               | LICS 1.5                                                                                                                                                             |              |                         |
-|      | Jan 23 | SAT solving                       |               | LICS 1.6                                                                                                                                                             | hw2 due      |                         |
-| 4    | Jan 38 | predicate logic                   |               | LICS 2.1-2.2                                                                                                                                                         | hw3 assigned |                         |
-|      | Jan 30 | proof theory of predicate logic   |               | LICS 2.3                                                                                                                                                             |              |                         |
-| 5    | Feb 4  | semantics of predicate logic      |               | LICS 2.4                                                                                                                                                             |              |                         |
-|      | Feb 6  | SMT solving                       |               |                                                                                                                                                                      | hw3 due      |                         |
-| 6    | Feb 11 | linear temporal logic (LTL)       |               | LICS 3.2                                                                                                                                                             | hw4 assigned |                         |
-|      | Feb 13 | model checking                    |               | LICS 3.3                                                                                                                                                             |              |                         |
-| 7    | Feb 18 | *no class (holiday)*              |               |                                                                                                                                                                      |              |                         |
-|      | Feb 20 | computation tree logic (CTL)      |               | LICS 3.4                                                                                                                                                             | hw4 due      |                         |
-| 8    | Feb 25 | CTL model checking                |               | LICS 3.6.1                                                                                                                                                           | hw5 assigned |                         |
-|      | Feb 27 | *no class (instructor traveling)* |               |                                                                                                                                                                      |              | project proposal due    |
-| 9    | Mar 3  | LTL model checking                |               | LICS 3.6.3                                                                                                                                                           |              |                         |
-|      | Mar 5  | program syntax/semantics          |               | LICS 4.1-4.2.1                                                                                                                                                       | hw5 due      |                         |
-| 10   | Mar 10 | program verification              |               | LICS 4.2.2-4.2.4                                                                                                                                                     | hw6 assigned |                         |
-|      | Mar 12 | Hoare logic                       |               | LICS 4.3                                                                                                                                                             |              |                         |
-| 11   | Mar 17 | verification conditions           |               |                                                                                                                                                                      |              |                         |
-|      | Mar 19 | finding loop invariants           |               |                                                                                                                                                                      | hw6 due      |                         |
-| 12   | Mar 24 | *no class (holiday)*              |               |                                                                                                                                                                      | hw7 assigned |                         |
-|      | Mar 26 | *no class (holiday)*              |               |                                                                                                                                                                      |              |                         |
-| 13   | Mar 31 | paper presentation                |               | [Combinatorial Sketching for Finite Programs](https://people.csail.mit.edu/asolar/papers/asplos06-final.pdf)                                                         |              |                         |
-|      | Apr 2  | paper presentation                |               | [Sketching Concurrent Data Structures](https://people.csail.mit.edu/asolar/papers/Solar-LezamaJB08.pdf)                                                              | hw7 due      |                         |
-| 14   | Apr 7  | paper presentation                |               | [Oracle-Guided Component-Based Program Synthesis](http://susmitjha.github.io/papers/icse10.pdf)                                                                      | hw8 assigned |                         |
-|      | Apr 9  | paper presentation                |               | [Automating String Processing in Spreadsheets Using Input-Output Examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf) |              |                         |
-| 15   | Apr 14 | paper presentation                |               | [Abstraction-Guided Synthesis of Synchronization](http://www.cs.technion.ac.il/~yahave/papers/popl10.pdf)                                                            |              |                         |
-|      | Apr 16 | paper presentation                |               | [TRANSIT: Specifying Protocols with Concolic Snippets](http://acg.cis.upenn.edu/papers/pldi13_transit.pdf)                                                           | hw8 due      |                         |
-| 16   | Apr 21 | paper presentation                |               | [Syntax-Guided Synthesis](https://www.cis.upenn.edu/~fisman/documents/SyGuS_JournalVersion.pdf)                                                                      |              | presentation slides due |
-|      | Apr 23 | **project presentations**         |               |                                                                                                                                                                      |              |                         |
-| 17   | Apr 28 | **project presentations**         |               |                                                                                                                                                                      |              |                         |
-|      | Apr 30 | *no class ("dead day")*           |               |                                                                                                                                                                      |              |                         |
-| 18   | May 5  | *no class (final exam week)*      |               |                                                                                                                                                                      |              |                         |
-|      | May 7  | *no class (final exam week)*      |               |                                                                                                                                                                      |              | final report due        |
-
-## Homework
-
-There will be approximately 8 homeworks, which will be completed individually.
-These are designed to help encourage you to keep up-to-date on the course material.
-You will have approximately **2 weeks** to work on each homework.
-
-## Student Paper Presentations
-
-Students will work in groups of 2-3 to thoroughly read one of the program synthesis research papers at the end of the course schedule.
-Each group will prepare a detailed (50 min) presentation on the paper, and will lead the class discussion on the corresponding day.
-Teams/papers will be chosen shortly after project proposals are due.
-
-## Final Project
-
-Each student will propose a programming project which utilizes a verification/synthesis technique(s) in a domain of interest.
-Project proposals are due approximately halfway through the course (week 8).
-Each student will give a brief (10 min) presentation during the last week of class, to describe the project results.
-A brief (5-8 page) final report will be due at the end of finals week.
 
 ## Typos and Bug Fixes
 
