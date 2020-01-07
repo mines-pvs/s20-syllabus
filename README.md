@@ -269,7 +269,7 @@ monitor the overall response rate via Canvas -- if the overall response rate
 goes above 50%, *all* students in the class will receive bonus points
 worth 50% of a homework assignment.
 
-Your feedback is important! The instructor will read all of your comments, and use them to help improve my course/teaching in the future. Rather than simply leaving a numeric rating, please describe your rating in words -- for example, a high score without any indication of what you enjoyed/gained from the class is great but not particularly informative, and a low score without any indication of what went wrong in the class will not help me improve.
+Your feedback is important! The instructor will read all of your comments, and use them to help improve the course/teaching in the future. Rather than simply leaving a numeric rating, please describe your rating in words -- for example, a high score without any indication of what you enjoyed/gained from the class is great but not particularly informative, and a low score without any indication of what went wrong in the class will not help the instructor improve.
 
 Please put yourself in the instructor's shoes, and be **constructive** in
 your comments.
@@ -290,4 +290,4 @@ convenience to discuss your needs in this course.
 
 ## Typos and Bug Fixes
 
-Please use the Issues or Pull Request features of GitHub to bring any typos or bugs to my attention.
+Please use the Issues or Pull Request features of GitHub to bring any typos or bugs to the instructor's attention.
