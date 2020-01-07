@@ -35,6 +35,18 @@ It is also helpful if you have some basic Linux command-line experience.
 3. Gain exposure to recent research in the area of *program synthesis*.
 4. Apply some verification/synthesis techniques in a domain of interest to you.
 
+## Textbook and Other Reading Materials
+
+NOTE: the following resources are *recommended*, but not required. I will
+assign readings from these sources to supplement our discussions in class,
+but our in-class discussions will constitute the "official" version of
+the course material.
+
+- [*Logic in Computer Science* by Huth and Ryan](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k51mek3j9ck2fy)
+
+The above links will take you to free versions of the materials.
+
+
 ## Schedule
 
 This schedule is tentative, and is subject to change.
@@ -165,17 +177,6 @@ There is a Github organization for the class:
 [https://github.com/mines-pvs](https://github.com/mines-pvs)
 
 All of your individual/team repositories will show up there.
-
-## Textbook and Other Reading Materials
-
-NOTE: the following resources are *recommended*, but not required. I will
-assign readings from these sources to supplement our discussions in class,
-but our in-class discussions will constitute the "official" version of
-the course material.
-
-- [*Logic in Computer Science* by Huth and Ryan](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k51mek3j9ck2fy)
-
-The above links will take you to free versions of the materials.
 
 ## Class Notes
 
