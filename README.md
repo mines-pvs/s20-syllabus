@@ -268,3 +268,7 @@ syntax-guided synthesis (SyGuS), programming by example.
 There will be approximately 7 homeworks, which will be completed individually.
 These are designed to help encourage you to keep up-to-date on the course material.
 You will have approximately **2 weeks** to work on each homework.
+
+## Typos and Bug Fixes
+
+Please use the Issues or Pull Request features of GitHub to bring any typos or bugs to my attention.
