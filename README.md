@@ -215,45 +215,44 @@ The Colorado School of Mines is committed to ensuring the full participation of 
 
 This schedule is tentative, and is subject to change.
 
-| week | date   | topic                             | lecture notes | supplemental reading | homework | lab |
-|------|--------|-----------------------------------|---------------|----------------------|----------|-----|
-| 1    | Jan 7  | SAT/SMT                           |               |                      |          |     |
-|      | Jan 9  | SAT/SMT                           |               |                      |          |     |
-| 2    | Jan 14 | SAT/SMT                           |               |                      |          |     |
-|      | Jan 16 | SAT/SMT                           |               |                      |          |     |
-| 3    | Jan 21 | SAT/SMT                           |               |                      |          |     |
-|      | Jan 23 | SAT/SMT                           |               |                      |          |     |
-| 4    | Jan 38 | SAT/SMT                           |               |                      |          |     |
-|      | Jan 30 | SAT/SMT                           |               |                      |          |     |
-| 5    | Feb 4  | model checking                    |               |                      |          |     |
-|      | Feb 6  | model checking                    |               |                      |          |     |
-| 6    | Feb 11 | model checking                    |               |                      |          |     |
-|      | Feb 13 | model checking                    |               |                      |          |     |
-| 7    | Feb 18 | *no class (holiday)*              |               |                      |          |     |
-|      | Feb 20 | model checking                    |               |                      |          |     |
-| 8    | Feb 25 | model checking                    |               |                      |          |     |
-|      | Feb 27 | *no class (instructor traveling)* |               |                      |          |     |
-| 9    | Mar 3  | automated theorem proving         |               |                      |          |     |
-|      | Mar 5  | automated theorem proving         |               |                      |          |     |
-| 10   | Mar 10 | automated theorem proving         |               |                      |          |     |
-|      | Mar 12 | automated theorem proving         |               |                      |          |     |
-| 11   | Mar 17 | automated theorem proving         |               |                      |          |     |
-|      | Mar 19 | automated theorem proving         |               |                      |          |     |
-| 12   | Mar 24 | *no class (holiday)*              |               |                      |          |     |
-|      | Mar 26 | *no class (holiday)*              |               |                      |          |     |
-| 13   | Mar 31 | Synthesis 1                       |               |                      |          |     |
-|      | Apr 2  | Synthesis 2                       |               |                      |          |     |
-| 14   | Apr 7  | Synthesis 3                       |               |                      |          |     |
-|      | Apr 9  | Synthesis 4                       |               |                      |          |     |
-| 15   | Apr 14 | Synthesis 5                       |               |                      |          |     |
-|      | Apr 16 | Synthesis 6                       |               |                      |          |     |
-| 16   | Apr 21 | Synthesis 7                       |               |                      |          |     |
-|      | Apr 23 | project presentations             |               |                      |          |     |
-| 17   | Apr 28 | project presentations             |               |                      |          |     |
-|      | Apr 30 | *no class (study for finals)*     |               |                      |          |     |
-| 18   | May 5  | *no class (final exam week)*      |               |                      |          |     |
-|      | May 7  | *no class (final exam week)*      |               |                      |          |     |
-
+| week | date   | topic                             | lecture notes | supplemental reading                                                                                                                                                 | homework     | project                 |
+|------|--------|-----------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------|
+| 1    | Jan 7  | introduction to formal methods    |               |                                                                                                                                                                      | hw1 assigned |                         |
+|      | Jan 9  | natural deduction                 |               | LICS 1.1-1.2                                                                                                                                                         | hw1 due      |                         |
+| 2    | Jan 14 | propositional logic               |               | LICS 1.3                                                                                                                                                             | hw2 assigned |                         |
+|      | Jan 16 | semantics of propositional logic  |               | LICS 1.4                                                                                                                                                             |              |                         |
+| 3    | Jan 21 | normal forms                      |               | LICS 1.5                                                                                                                                                             |              |                         |
+|      | Jan 23 | SAT solving                       |               | LICS 1.6                                                                                                                                                             | hw2 due      |                         |
+| 4    | Jan 38 | predicate logic                   |               | LICS 2.1-2.2                                                                                                                                                         | hw3 assigned |                         |
+|      | Jan 30 | proof theory of predicate logic   |               | LICS 2.3                                                                                                                                                             |              |                         |
+| 5    | Feb 4  | semantics of predicate logic      |               | LICS 2.4                                                                                                                                                             |              |                         |
+|      | Feb 6  | SMT solving                       |               |                                                                                                                                                                      | hw3 due      |                         |
+| 6    | Feb 11 | linear temporal logic (LTL)       |               | LICS 3.2                                                                                                                                                             | hw4 assigned |                         |
+|      | Feb 13 | model checking                    |               | LICS 3.3                                                                                                                                                             |              |                         |
+| 7    | Feb 18 | *no class (holiday)*              |               |                                                                                                                                                                      |              |                         |
+|      | Feb 20 | computation tree logic (CTL)      |               | LICS 3.4                                                                                                                                                             | hw4 due      |                         |
+| 8    | Feb 25 | CTL model checking                |               | LICS 3.6.1                                                                                                                                                           | hw5 assigned |                         |
+|      | Feb 27 | *no class (instructor traveling)* |               |                                                                                                                                                                      |              | project proposal due    |
+| 9    | Mar 3  | LTL model checking                |               | LICS 3.6.3                                                                                                                                                           |              |                         |
+|      | Mar 5  | program syntax/semantics          |               | LICS 4.1-4.2.1                                                                                                                                                       | hw5 due      |                         |
+| 10   | Mar 10 | program verification              |               | LICS 4.2.2-4.2.4                                                                                                                                                     | hw6 assigned |                         |
+|      | Mar 12 | Hoare logic                       |               | LICS 4.3                                                                                                                                                             |              |                         |
+| 11   | Mar 17 | verification conditions           |               |                                                                                                                                                                      |              |                         |
+|      | Mar 19 | finding loop invariants           |               |                                                                                                                                                                      | hw6 due      |                         |
+| 12   | Mar 24 | *no class (holiday)*              |               |                                                                                                                                                                      | hw7 assigned |                         |
+|      | Mar 26 | *no class (holiday)*              |               |                                                                                                                                                                      |              |                         |
+| 13   | Mar 31 | paper presentation                |               | [Combinatorial Sketching for Finite Programs](https://people.csail.mit.edu/asolar/papers/asplos06-final.pdf)                                                         |              |                         |
+|      | Apr 2  | paper presentation                |               | [Sketching Concurrent Data Structures](https://people.csail.mit.edu/asolar/papers/Solar-LezamaJB08.pdf)                                                              | hw7 due      |                         |
+| 14   | Apr 7  | paper presentation                |               | [Oracle-Guided Component-Based Program Synthesis](http://susmitjha.github.io/papers/icse10.pdf)                                                                      | hw8 assigned |                         |
+|      | Apr 9  | paper presentation                |               | [Automating String Processing in Spreadsheets Using Input-Output Examples](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf) |              |                         |
+| 15   | Apr 14 | paper presentation                |               | [Abstraction-Guided Synthesis of Synchronization](http://www.cs.technion.ac.il/~yahave/papers/popl10.pdf)                                                            |              |                         |
+|      | Apr 16 | paper presentation                |               | [TRANSIT: Specifying Protocols with Concolic Snippets](http://acg.cis.upenn.edu/papers/pldi13_transit.pdf)                                                           | hw8 due      |                         |
+| 16   | Apr 21 | paper presentation                |               | [Syntax-Guided Synthesis](https://www.cis.upenn.edu/~fisman/documents/SyGuS_JournalVersion.pdf)                                                                      |              | presentation slides due |
+|      | Apr 23 | **project presentations**         |               |                                                                                                                                                                      |              |                         |
+| 17   | Apr 28 | **project presentations**         |               |                                                                                                                                                                      |              |                         |
+|      | Apr 30 | *no class (âdead dayâ)*           |               |                                                                                                                                                                      |              |                         |
+| 18   | May 5  | *no class (final exam week)*      |               |                                                                                                                                                                      |              |                         |
+|      | May 7  | *no class (final exam week)*      |               |                                                                                                                                                                      |              | final report due        |
 
 - Logic Preliminaries: First-order logic, inductive definitions, proofs,
 SAT solvers.
