@@ -1,6 +1,8 @@
 week,date,topic,lecture notes,supplemental reading,homework,project
-1,Jan 7,introduction to formal methods,,,hw1 assigned,
-,Jan 9,natural deduction,,LICS 1.1-1.2,hw1 due,
+1,Jan 7,introduction to formal methods,,,[hw1](https://docs.google.com/forms/d/e/1FAIpQLSfU1EKzF7eVDY09bTWdytOIELuKFyinJuPP9Bi_YER264ZKXw/viewform?usp=sf_link
+) assigned,
+,Jan 9,natural deduction,,LICS 1.1-1.2,[hw1](https://docs.google.com/forms/d/e/1FAIpQLSfU1EKzF7eVDY09bTWdytOIELuKFyinJuPP9Bi_YER264ZKXw/viewform?usp=sf_link
+) due,
 2,Jan 14,propositional logic,,LICS 1.3,hw2 assigned,
 ,Jan 16,semantics of propositional logic,,LICS 1.4,,
 3,Jan 21,normal forms,,LICS 1.5,,
