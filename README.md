@@ -11,7 +11,7 @@ CSCI-598 Program Verification & Synthesis, Spring 2020
 
 - Contact: mcclurg (at) mines (dot) edu
 - Office: Brown Hall 280C
-- Office Hours: Tue 3:00pm-3:50pm, Thu 2:00pm-3:50pm
+- Office Hours: Tue 1:00pm-1:50pm, Thu 2:00pm-3:50pm
 
 ## Teaching Assistant (TA)
 
