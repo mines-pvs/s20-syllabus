@@ -3,7 +3,7 @@ week,date,topic,lecture notes,supplemental reading,homework,project
 ) assigned,
 ,Jan 9,natural deduction,[lecture02](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k574m4hhkmb1vo),LICS 1.1-1.2,[hw1](https://docs.google.com/forms/d/e/1FAIpQLSfU1EKzF7eVDY09bTWdytOIELuKFyinJuPP9Bi_YER264ZKXw/viewform?usp=sf_link
 ) due,
-2,Jan 14,propositional logic,,LICS 1.3,hw2 assigned,
+2,Jan 14,propositional logic,[lecture03](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k5dmkslmfj25rb),LICS 1.3,hw2 assigned,
 ,Jan 16,semantics of propositional logic,,LICS 1.4,,
 3,Jan 21,normal forms,,LICS 1.5,,
 ,Jan 23,SAT solving,,LICS 1.6,hw2 due,
