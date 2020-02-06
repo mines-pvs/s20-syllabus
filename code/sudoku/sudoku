@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -ea -cp /usr/lib/com.microsoft.z3.jar:. Sudoku $@
