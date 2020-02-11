@@ -11,7 +11,7 @@ week,date,topic,lecture notes,supplemental reading,homework,project
 ,Jan 30,proof theory of predicate logic,[lecture08](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k611cske3zr45a),LICS 2.3,,
 5,Feb 4,semantics of predicate logic,[lecture09](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k6b1cvtpfa44nw),LICS 2.4,,
 ,Feb 6,SMT solving,,,"[hw3](https://github.com/mines-pvs/s20-assignment-hw03) due",
-6,Feb 11,linear temporal logic (LTL),,LICS 3.2,,
+6,Feb 11,linear temporal logic (LTL),[lecture10](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k6i6qw9n1o752z),LICS 3.2,,
 ,Feb 13,model checking,,LICS 3.3,,
 7,Feb 18,*no class (holiday)*,,,,
 ,Feb 20,computation tree logic (CTL),,LICS 3.4,,
