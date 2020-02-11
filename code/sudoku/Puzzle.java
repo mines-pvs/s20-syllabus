@@ -6,7 +6,7 @@ public class Puzzle {
     int size;
     int inner;
 
-    private Puzzle(int puzzle[], int size, int inner) {
+    public Puzzle(int puzzle[], int size, int inner) {
         this.puzzle = puzzle;
         this.size = size;
         this.inner = inner;
