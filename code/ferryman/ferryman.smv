@@ -39,6 +39,7 @@ ASSIGN
         TRUE : wolf;
     esac;
 
+-- assert !P because we want to find a trace that satisfies !!P (i.e., P)
 LTLSPEC !((
 (goat=cabbage | goat=wolf) -> goat=ferryman)
 U (cabbage & goat & wolf & ferryman))

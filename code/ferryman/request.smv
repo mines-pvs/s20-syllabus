@@ -5,7 +5,7 @@ VAR
 ASSIGN
     init(state) := ready;
     next(state) := case
-                       state = ready & request : busy;
+                       request : busy;
                        TRUE : {ready,busy};
                    esac;
 LTLSPEC
