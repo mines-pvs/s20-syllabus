@@ -118,7 +118,8 @@ The purpose of this document is to propose a non-trivial problem related to the 
 2. *Examples*: work through some self-contained examples by hand.
 3. *Proposed Approach*: propose a technique/algorithm to solve the problem, and discuss the expected challenges.
 4. *Proposed Evaluation*: describe how you will evaluate the correctness/performance of your solution.
-Your proposal should provide convincing evidence that (A) the problem is non-trivial, and (B) you have a reasonable plan to tackle the problem. For our purposes, *non-trivial* will mean (roughly) that an *algorithm* needs to be written to solve the problem. For example, implementing a SAT solver by making a single call to Z3 or MiniSAT would be a trivial solution.
+
+Your proposal should provide convincing evidence that (A) the problem is non-trivial, and (B) you have a reasonable plan to tackle the problem. For our purposes, *non-trivial* will mean (roughly) that an *algorithm* needs to be written to solve the problem. For example, implementing a SAT solver by making a single call to Z3 or MiniSAT would be a trivial solution. If any aspect of the proposal is unconvincing, the instructor may require changes that will need to be documented and incorporated into the final project.
 
 ## Online Community and Communication
 
