@@ -111,6 +111,14 @@ Project proposals are due approximately halfway through the course (week 8).
 Each student will give a brief (10 min) presentation during the last week of class, to describe the project results.
 A brief (5-8 page) final report will be due at the end of finals week.
 
+## Project Proposal
+
+The purpose of this document is to propose a non-trivial problem related to the topics discussed in the class, and describe the basic steps you will take to develop a software solution. The project proposal should be in PDF format, and should be typeset nicely using LaTeX, Word, LibreOffice, or similar. The report should be 3-4 pages, and should contain *at a minimum* the following sections:
+1. *Introduction*: describe the problem you are trying to solve, and discuss the problem's relevance.
+2. *Examples*: work through some self-contained examples by hand.
+3. *Proposed Approach*: propose a technique/algorithm to solve the problem, and discuss the expected challenges.
+4. *Proposed Evaluation*: describe how you will evaluate the correctness/performance of your solution.
+Your proposal should provide convincing evidence that (A) the problem is non-trivial, and (B) you have a reasonable plan to tackle the problem. For our purposes, *non-trivial* will mean (roughly) that an *algorithm* needs to be written to solve the problem. For example, implementing a SAT solver by making a single call to Z3 or MiniSAT would be a trivial solution.
 
 ## Online Community and Communication
 
