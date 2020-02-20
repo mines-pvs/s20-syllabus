@@ -14,7 +14,7 @@ week,date,topic,lecture notes,supplemental reading,homework,project
 6,Feb 11,linear temporal logic (LTL),[lecture10](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k6i6qw9n1o752z),LICS 3.2,,
 ,Feb 13,model checking,,LICS 3.3,,
 7,Feb 18,*no class (holiday)*,,,,
-,Feb 20,computation tree logic (CTL),,LICS 3.4,,
+,Feb 20,computation tree logic (CTL),[lecture12](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k6v1pqcxbdh6s8),LICS 3.4,,
 8,Feb 25,CTL model checking,,LICS 3.6.1,hw4 assigned,
 ,Feb 27,*no class (instructor traveling)*,,,,project proposal due
 9,Mar 3,LTL model checking,,LICS 3.6.3,,
