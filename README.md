@@ -66,11 +66,11 @@ Deadlines are at *midnight (Mountain Time)* on the corresponding date.
 | 5    | Feb 4  | *no class (Career Day)*      |               |                                                                                                                                                              |              |                         |
 |      | Feb 6  | semantics of predicate logic, SMT solving                       | [lecture09](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k6b1cvtpfa44nw)              | LICS 2.4, [SMT](https://people.eecs.berkeley.edu/~sseshia/pubdir/SMT-BookChapter.pdf)                                                                                                                                                                     | [hw3](https://github.com/mines-pvs/s20-assignment-hw03) due      |                         |
 | 6    | Feb 11 | linear temporal logic (LTL)       | [lecture10](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k6i6qw9n1o752z)              | LICS 3.2                                                                                                                                                             |  |                         |
-|      | Feb 13 | model checking                    |               | LICS 3.3                                                                                                                                                             |              |                         |
+|      | Feb 13 | model checking                    | [lecture11](https://piazza.com/class_profile/get_resource/k51i3nb2iw64cp/k6l1pvwbgt376p)              | LICS 3.3                                                                                                                                                             |              |                         |
 | 7    | Feb 18 | *no class (holiday)*              |               |                                                                                                                                                                      |              |                         |
 |      | Feb 20 | computation tree logic (CTL)      |               | LICS 3.4                                                                                                                                                             |       |                         |
 | 8    | Feb 25 | CTL model checking                |               | LICS 3.6.1                                                                                                                                                           | hw4 assigned |                         |
-|      | Feb 27 | *no class (instructor traveling)* |               |                                                                                                                                                                      |              | project proposal due    |
+|      | Feb 27 | *guest lecture: Jordan Schmerge* |               |                                                                                                                                                                      |              | project proposal due    |
 | 9    | Mar 3  | LTL model checking                |               | LICS 3.6.3                                                                                                                                                           |              |                         |
 |      | Mar 5  | program syntax/semantics          |               | LICS 4.1-4.2.1                                                                                                                                                       | hw4 due      |                         |
 | 10   | Mar 10 | program verification              |               | LICS 4.2.2-4.2.4                                                                                                                                                     | hw5 assigned |                         |
@@ -111,6 +111,15 @@ Project proposals are due approximately halfway through the course (week 8).
 Each student will give a brief (10 min) presentation during the last week of class, to describe the project results.
 A brief (5-8 page) final report will be due at the end of finals week.
 
+## Project Proposal
+
+The purpose of this document is to propose a non-trivial problem related to the topics discussed in the class, and describe the basic steps you will take to develop a software solution. The project proposal should be in PDF format, and should be typeset nicely using LaTeX, Word, LibreOffice, or similar. The report should be 3-4 pages, and should contain *at a minimum* the following sections:
+1. *Introduction*: describe the problem you are trying to solve, and discuss the problem's relevance.
+2. *Examples*: work through some self-contained examples by hand.
+3. *Proposed Approach*: propose a technique/algorithm to solve the problem, and discuss the expected challenges.
+4. *Proposed Evaluation*: describe how you will evaluate the correctness/performance of your solution.
+
+Your proposal should provide convincing evidence that (A) the problem is non-trivial, and (B) you have a reasonable plan to tackle the problem. For our purposes, *non-trivial* will mean (roughly) that an *algorithm* needs to be written to solve the problem. For example, implementing a SAT solver by making a single call to Z3 or MiniSAT would be a trivial solution. If any aspect of the proposal is unconvincing, the instructor may require changes that will need to be documented and incorporated into the final project.
 
 ## Online Community and Communication
 
