@@ -108,8 +108,8 @@ Teams/papers will be chosen shortly after project proposals are due.
 
 Each student will propose a programming project which utilizes a verification/synthesis technique(s) in a domain of interest.
 Project proposals are due approximately halfway through the course (week 8).
-Each student will give a brief (10 min) presentation during the last week of class, to describe the project results.
-A brief (5-8 page) final report will be due at the end of finals week.
+Each student will give a brief presentation during the last week of class, to describe the project results.
+A brief final report will be due at the end of finals week.
 
 ## Project Proposal
 
@@ -120,6 +120,22 @@ The purpose of this document is to propose a non-trivial problem related to the 
 4. *Proposed Evaluation*: describe how you will evaluate the correctness/performance of your solution.
 
 Your proposal should provide convincing evidence that (A) the problem is non-trivial, and (B) you have a reasonable plan to tackle the problem. For our purposes, *non-trivial* will mean (roughly) that an *algorithm* needs to be written to solve the problem. For example, implementing a SAT solver by making a single call to Z3 or MiniSAT would be a trivial solution. If any aspect of the proposal is unconvincing, the instructor may require changes that will need to be documented and incorporated into the final project.
+
+## Project Report / Project Code
+
+The purpose of the Project Report is to flesh out the details missing from the Project Proposal -- in particular, you should detail the steps you took to develop your solution, and show how you tested it. The project proposal should be in PDF format, and should be typeset nicely using LaTeX, Word, LibreOffice, or similar. The report should be 6-8 pages, and should contain *at a minimum* the following sections:
+1. *Introduction*: describe the problem you solved, and discuss the problem's relevance.
+2. *Examples*: work through some self-contained examples, either by hand, or step-by-step using your tool.
+3. *Approach*: describe the technique/algorithm you built to solve the problem, and discuss the challenges you encountered.
+4. *Evaluation*: describe how you evaluated the correctness/performance of your solution.
+
+The Project Report (an the accompanying Project Code) are due on the last day of the semester (see Schedule). The Code should work on a standard Ubuntu Linux machine. If needed, you can package your code as a VirtualBox VM, so that it can be run on Linux. 
+
+## Project Presentation
+
+We will have short final-project presentations during the final two class periods. Each presentation time slot will be 8 minutes. Aim for **5-6 minutes** of presentation, and that will leave 2-3 minutes for questions. Please practice your talk to ensure that it falls in the 5-6 minute range, so that we can keep on schedule. Your presentations slides are due the week before the first presentation begins (see Schedule). Please upload your slides in PDF format to your project repository.
+
+In your talk, please be sure to cover each of the 4 elements on the project (Introduction, Examples, Approach, Evaluation). One detailed slide for each of these should be sufficient.
 
 ## Online Community and Communication
 
